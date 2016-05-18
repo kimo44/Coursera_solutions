@@ -82,9 +82,11 @@ li  { background-color: #B9ECDE;
 
 /** MAIN CONTENT **/
 
-.menubox {
+
+.menu-container {
   background-color: #3FAB8E;
-  padding: 5px 15px 15px 15px;
-  margin: 15px auto 15px;
   height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
 }
